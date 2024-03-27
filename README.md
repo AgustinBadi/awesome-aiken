@@ -25,9 +25,11 @@
 - [Cardano-Fans/acca](https://github.com/Cardano-Fans/acca) - Extensions to the standard library
 - [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) - Several reusable Aiken libraries
 - [Logical Mechanism/assist](https://github.com/logicalmechanism/assist) - A collection of specialized Aiken functions.
+- [aiken-extra](https://github.com/aiken-extra) - A collection of additional aiken functions to build tests and help debug.
 
 ## Dapps
 
+- [Sundae Swap V3](https://github.com/SundaeSwap-finance/sundae-contracts) - DEX
 - [Jpg Store](https://github.com/jpg-store/contracts-v3) - NFT Marketplace
 - [Lenfi](https://github.com/lenfiLabs/lenfi-smart-contracts) - Lending and Borrowing
 - [Minswap - Stableswap](https://github.com/minswap/minswap-stableswap) - DEX
